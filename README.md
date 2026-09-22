@@ -24,3 +24,12 @@ def echo_guard(iterable, key=lambda x: x, window_size=3):
       seen_window.append(k)
       if len(seen_window) > window_size:
         seen_window.pop(0)
+
+
+
+[[[[[[[  [[[[[      [[[[[[[    [[[[[[[
+[[       [[   [[    [[         [[
+[[[[[[[  [[   [[    [[         [[
+[[       [[[[[      [[[[[[[    [[[[[[[     to use (:
+[[       [[   [     [[         [[
+[[       [[     [   [[[[[[[    [[[[[[[
